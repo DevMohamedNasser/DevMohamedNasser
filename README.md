@@ -40,6 +40,7 @@ A passionate Front-End Developer from Egypt 🇪🇬
 <a href="https://github.com/devmohamednasser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohamednasser&layout=compact&theme=radical" />
 </a>
+![views](https://komarev.com/ghpvc/?username=devmohamednasser&color=blue)
 
 ---
 
